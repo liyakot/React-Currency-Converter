@@ -1,3 +1,22 @@
+<h1 align="center">Currency Converter</h1>
+<h2 align="center">
+<img src="/README_img/Main.png">
+</h2>
+
+<h3 align="center">
+    <a href="https://netflix-redesignnn.netlify.app/" target="_blank">Life Demo</a>
+</h3>
+
+### Description
+
+---
+
+This is a currency converter built with ReactJS and axios. To access the current exchange rate, I used <a href="https://apilayer.com/">APILayer</a>.
+
+The project was created using ReactJS and Axios.
+
+<p><img src="https://img.shields.io/github/languages/top/liyakot/React-Currency-Converter?color=orange"></p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
